@@ -31,8 +31,13 @@ export const data = {
             hours: {
                 start: '08.00',
                 finish: 'Selesai'
-            }
+            },
+            address2: 'Karang Duwak Dusun Duwak Assen, Desa Batioh, Banyuates, Sampang.',
         },
+    link: {
+        map2: 'https://maps.app.goo.gl/edd3WxfqkGLLP4Ck6'
+    },
+        
         reception: {
             year: '2025',
             month: 'April',
@@ -44,7 +49,6 @@ export const data = {
             }
         },
         address: 'Belakang Pasar Bringkoning, Desa Telagah, Banyuates, Sampang.',
-        address2: 'Karang Duwak Dusun Duwak Assen, Desa Batioh, Banyuates, Sampang.'
     },
 
     link: {
