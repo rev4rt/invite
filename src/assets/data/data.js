@@ -34,11 +34,10 @@ export const data = {
             }
         },
         address: 'Belakang Pasar Bringkoning, Desa Telagah, Banyuates, Sampang.',
-    },
 
     link: {
         map: 'https://maps.app.goo.gl/uEH2kKeRwhPh7uDy9',
-    },
+    
         },
         reception: {
             year: '2025',
