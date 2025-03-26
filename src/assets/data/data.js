@@ -33,12 +33,11 @@ export const data = {
                 finish: 'Selesai'
             }
         },
-        address: 'Belakang Pasar Bringkoning, Desa Telagah, Banyuates, Sampang.',
+        address2: 'Belakang Pasar Bringkoning, Desa Telagah, Banyuates, Sampang.',
 
     link: {
-        map: 'https://maps.app.goo.gl/uEH2kKeRwhPh7uDy9',
-    
-        },
+        map2: 'https://maps.app.goo.gl/uEH2kKeRwhPh7uDy9',
+    },
         reception: {
             year: '2025',
             month: 'April',
