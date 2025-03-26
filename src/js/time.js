@@ -13,8 +13,7 @@ export const time = () => {
     );
 
     marriageDiv.innerHTML = createTimeListItem('Mengantar Mempelai Pria', data.time.marriage);
-    mapLink.href = data.link.map;
-    addressParagraph.textContent = data.time.address;
+        `<p> ${data.time.address}</p>`
     
     receptionDiv.innerHTML = createTimeListItem('Resepsi', data.time.reception);
     mapLink.href = data.link.map;
