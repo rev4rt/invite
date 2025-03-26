@@ -20,8 +20,6 @@ export const data = {
         },
 
         couple: './src/assets/images/couple.png'
-    },
-
     time: {
         marriage: {
             year: '2025',
@@ -33,11 +31,6 @@ export const data = {
                 finish: 'Selesai'
             }
         },
-        address2: 'Belakang Pasar Bringkoning, Desa Telagah, Banyuates, Sampang.',
-
-    link: {
-        map2: 'https://maps.app.goo.gl/uEH2kKeRwhPh7uDy9',
-    },
         reception: {
             year: '2025',
             month: 'April',
@@ -49,11 +42,13 @@ export const data = {
             }
         },
         address: 'Belakang Pasar Bringkoning, Desa Telagah, Banyuates, Sampang.',
+        address2: 'Karang Duwak Dusun Duwak Assen, Desa Batioh, Banyuates, Sampang.',
     },
 
     link: {
         calendar: 'https://calendar.app.google/9VV7UeKCnJPwbfJM6',
         map: 'https://maps.app.goo.gl/uEH2kKeRwhPh7uDy9',
+        map2: 'https://maps.app.goo.gl/edd3WxfqkGLLP4Ck6',
     },
 
     galeri: [
