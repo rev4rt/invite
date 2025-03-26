@@ -50,7 +50,7 @@ export const data = {
     link: {
         calendar: 'https://calendar.app.google/9VV7UeKCnJPwbfJM6',
         map: 'https://maps.app.goo.gl/uEH2kKeRwhPh7uDy9',
-        map2: 'https://maps.app.goo.gl/edd3WxfqkGLLP4Ck6',
+        map2: 'https://maps.app.goo.gl/edd3WxfqkGLLP4Ck6'
     },
 
     galeri: [
