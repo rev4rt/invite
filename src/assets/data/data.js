@@ -32,7 +32,7 @@ export const data = {
                 start: '08.00',
                 finish: 'Selesai'
             },
-            address2: 'Karang Duwak Dusun Duwak Assen, Desa Batioh, Banyuates, Sampang.',
+            address2: 'Karang Duwak Dusun Duwak Assen, Desa Batioh, Banyuates, Sampang.'
         },
     link: {
         map2: 'https://maps.app.goo.gl/edd3WxfqkGLLP4Ck6'
