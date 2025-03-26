@@ -3,23 +3,25 @@ export const data = {
         L: {
             id: 1,
             name: 'Mohammad Suhud',
-            ig: '@susxhbangun',
             child: 'Putra dari',
             father: 'Bapak H. Bunali (alm)',
             mother: 'Ibu HJ. Busari (almh)',
+            ig: '@susxhbangun',
             image: './src/assets/images/cowo.png'
         },
         P: {
             id: 2,
             name: 'Nurul Hikmah',
-            ig: '@_its.mhsyaff',
             child: 'Putri dari',
             father: 'Bapak M. Syafiuddin (alm)',
             mother: 'Ibu Romlah',
+            ig: '@_its.mhsyaff',
             image: './src/assets/images/cewe.png'
         },
 
         couple: './src/assets/images/couple.png'
+    },
+
     time: {
         marriage: {
             year: '2025',
@@ -42,7 +44,7 @@ export const data = {
             }
         },
         address: 'Belakang Pasar Bringkoning, Desa Telagah, Banyuates, Sampang.',
-        address2: 'Karang Duwak Dusun Duwak Assen, Desa Batioh, Banyuates, Sampang.',
+        address2: 'Karang Duwak Dusun Duwak Assen, Desa Batioh, Banyuates, Sampang.'
     },
 
     link: {
@@ -97,7 +99,7 @@ export const data = {
         },
     ],
 
-    audio: './src/assets/audio/x.mp4',
+    audio: ' ',
 
     api: 'https://script.google.com/macros/s/AKfycbwEc7FF6KwTdoLSxpbmddG24O7lK6hlSBH4m6nwdKRwGubEKeGazJm2fSkhFyYN_R9Gqw/exec',
 
