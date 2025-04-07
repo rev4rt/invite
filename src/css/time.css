@@ -54,6 +54,9 @@
   justify-content: center;
 }
 
-iframe {
-  max-width: 900px;
+.iframe {
+  width: 100%;
+  height: auto;
+  border-radius: 15px; 
+  overflow: hidden; 
 }
